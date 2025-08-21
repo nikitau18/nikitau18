@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate Data Analyst with experience in Power BI, SQL, and python.<br>Azure cloud and Power BI certified.<br>Strong communication, inter-personal skills along with flexibility to learn new technologies for achieving organizational goals while attaining personal and professional growth.<br>Willingness to work as a key player in challenging & creative environment.
+Passionate Data Analyst with experience in Power BI, SQL, and python.<br>Power BI certified.<br>Strong communication, inter-personal skills along with flexibility to learn new technologies for achieving organizational goals while attaining personal and professional growth.<br>Willingness to work as a key player in challenging & creative environment.
 
 
 ## 🌐 Socials:
